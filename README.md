@@ -44,3 +44,6 @@ termianl:
 ▶️ Como Rodar o Projeto
 terminal:
 python professor_portugues.py
+
+![ChatGPT Image 17 de mai  de 2025, 16_50_23](https://github.com/user-attachments/assets/03b51c25-fd17-4b74-a580-146d065f6641)
+
