@@ -21,14 +21,6 @@ Configuração da API:
 - No Colab: use `userdata.get()` e armazene como "GOOGLE_API_KEY"
 - Localmente: defina a variável de ambiente `export GOOGLE_API_KEY="SUA_CHAVE_AQUI"`
 
-Instalação:
-- git clone <URL_DO_SEU_REPOSITORIO>
-- cd <NOME_DO_SEU_REPOSITORIO>
-- pip install google-genai google-adk requests
-
-Execução:
-- python professor_portugues.py
-
 
 ![ChatGPT Image 17 de mai  de 2025, 16_50_23](https://github.com/user-attachments/assets/03b51c25-fd17-4b74-a580-146d065f6641)
 
